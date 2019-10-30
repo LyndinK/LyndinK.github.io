@@ -37,7 +37,10 @@ p{
 .contacts-title{
     text-align: center;
 }
-
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
 .flex-container-2{
     display: flex;
     flex-direction: row;

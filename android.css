@@ -38,24 +38,17 @@ p{
 .flex-container-2{
     display: flex;
     flex-direction: column;
+}
 
-}
-.flex-container-2 div{
-    flex-basis: 50%;
-}
 .adress-paragraph{
     margin-left: 10px;
 }
-.column-one{
-    width: 100%;
-}
+
 .image{
     margin-top: 10px;
     width: 100%;
 }
-.column-two{
-    width: 100%;
-}
+
 .column-two-title{
     text-align: center;
 }

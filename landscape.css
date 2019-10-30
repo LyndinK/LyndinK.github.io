@@ -40,6 +40,10 @@ p{
     display: flex;
     flex-direction: column;
 }
+.flex-container-2{
+    display: flex;
+    flex-direction: column;
+}
 .adress-paragraph{
     margin-left: 10px;
 }
